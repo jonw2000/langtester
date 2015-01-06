@@ -1,0 +1,35 @@
+# Polish Translations
+
+# Vocabulary
+Będzie - will
+Jutro będzie sobota - tomorrow will be Saturday
+Powiedz -  tell
+Śrubokręt - screwdriver
+Tylko - only
+Znalazłaś? - Did you find?
+
+# Days
+Poniedziałek - Monday
+Wtorek - Tuesday
+Środa -  Wed
+Czwartek - Thu
+Piątek - Friday
+Sobota - Sat
+Niedzela - Sunday
+
+# Months
+Styczeń - Jan
+Luty - Feb
+Marzec - March
+Kwiecień - April
+Maj - may
+Czerwiec - June
+Lipiec - July
+Sierpień - August
+Wrzesień - September
+Październik - October
+Listopad - November
+Grudźień - December
+
+Jak się masź? - How are you?
+
