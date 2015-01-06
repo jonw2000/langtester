@@ -1,6 +1,6 @@
 __author__ = 'jonwilliams'
 
-import translations as datareader
+import langtester.translations as datareader
 
 
 datareader.read("../data.txt")
