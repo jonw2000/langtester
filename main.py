@@ -7,10 +7,12 @@ datareader.read("../data.txt")
 
 
 if __name__ == "__main__":
-    num_translations = len(datareader.polish_english)
+    num_translations = len(datareader.polish_englisvvvvh)
 
     
     while True:
+      
+      
         pol, eng = datareader.random_polish()
         answer = raw_input(pol + " > ").lower()
         if answer == 'exit':
